@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "244340a76a994c5d581d4e5b39aa5867",
+const RESOURCES = {"flutter_bootstrap.js": "fd44bb88da2d2e4c41e69fadd4a85485",
 "favicon.png": "6e88679f5a0665e9e95e9d0698cee46a",
 "drift_worker.js": "3a57681b52f6c68292ac63ab80a99eaa",
 "manifest.json": "73e8fa08ed3947021bab212c135469b7",
@@ -27,12 +27,12 @@ const RESOURCES = {"flutter_bootstrap.js": "244340a76a994c5d581d4e5b39aa5867",
 "icons/Icon-192.png": "d37e593caa134a8fe1c0237af5565a1e",
 "icons/Icon-maskable-192.png": "628853ad83fd20c7845e5fff3d459cbf",
 "icons/Icon-maskable-512.png": "8273c1e13bfa4bb374fe85937961a23e",
-"main.dart.js": "b194b51eacfb3d6fc0ee49c1be1afd36",
+"main.dart.js": "f1bf3379a1f2c90b53f2a9bae085b37d",
 "sqlite3.wasm": "2e9fc1ccbb9d15199fccf405b0ceee53",
 "assets/FontManifest.json": "47d204bd770bb36c0821a30d5e3677a5",
 "assets/AssetManifest.json": "55487fca540db8bcdff28a6710ebd6d2",
 "assets/AssetManifest.bin": "3d20704aea2da2cdb16e168c6096965c",
-"assets/fonts/MaterialIcons-Regular.otf": "22478e5d23cf5cfb98398dc1a0c8a8ca",
+"assets/fonts/MaterialIcons-Regular.otf": "5f29bac1c520078f9cd9f66b6e917706",
 "assets/NOTICES": "3d42c68f89b78a054462a26cfc1c4a11",
 "assets/AssetManifest.bin.json": "ccb18ec25fba13ca96ebaab382937d10",
 "assets/assets/tekour-logo.jpeg": "cdabe5bd8e3729fb3d2e0b90ca53c9aa",
